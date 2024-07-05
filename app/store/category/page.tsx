@@ -1,5 +1,5 @@
 function categoryPage() {
-    return <h1>Category</h1>
+  return <h1>Category</h1>;
 }
 
-export default categoryPage
+export default categoryPage;
